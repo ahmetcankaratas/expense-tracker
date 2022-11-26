@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-LiveURL: 
+LiveURL: http://expensetracker-can.surge.sh/
 
 ## **🔎 Technologies**
 
@@ -9,6 +9,8 @@ LiveURL:
 ## 📷 Screenshots
 
 Main Page
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/53529387/204094818-9431d6d2-b093-4025-b74d-55affda1134b.png">
+
 
 ## Getting Started
 
@@ -21,13 +23,13 @@ A step by step guide that will tell you how to get the development environment u
 - Clone the repository
 
 ```
-git clone https://github.com/ahmetcankaratas/
+git clone https://github.com/ahmetcankaratas/expense-tracker
 ```
 
 - Install dependencies
 
 ```
-cd 
+cd expense-tracker
 npm install
 ```
 
